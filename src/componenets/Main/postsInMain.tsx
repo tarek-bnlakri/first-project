@@ -98,7 +98,7 @@ export const UserPosts = (props: Props) =>{
     return (
         <div className="box-container">
             <div className="profile-img">
-                <img src={user?.photoURL || ""} alt="Profile" />
+               
             </div>
 
             <div className="box">
