@@ -5,9 +5,9 @@ export const About = () => {
     const name = "TAREK BENLAKRI";
     const age = "21";
     const experience = "6 months";
-    const education = "Students at university UFAS College Science branch Computer Science ";
-    const skills = ["frontend developer with HTML CSS JavaScript and React JS", "backend developer with the SQL MySQL PHP Node.js and Express JS and also Firebase", "I do some language programmation like C++ C Java and some Python and also git Github"];
-    const imageSrc = "URL_TO_YOUR_IMAGE";
+    const education = "Students at university UFAS College Science branch Computer Science my third year";
+    const skills = ["frontend developer with HTML CSS JavaScript and React JS", "backend developer with the SQL MySQL PHP Node.js and Express JS and also Firebase", "I do some language programmation like C++, C ,Java with OOP ,and some Python and also git ,Github"];
+    const imageSrc = "URL_TO_YOUR_IMAGE"; 
 
     const currentYear = new Date().getFullYear();
     const copyright = `© ${currentYear} ${name}`;
